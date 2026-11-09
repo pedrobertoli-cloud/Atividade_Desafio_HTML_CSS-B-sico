@@ -68,3 +68,19 @@ body{
 /*  */
 /* Agora Vou estilizar a parte que fala "Sobre Nós */
 
+.pag2{
+    background-image: url(../_image/fundo-historia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* vou mexer na cor da história, vai ficar Horrível Roberto mas to tentando melhorar */
+.historia{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* isso aqui é só o footer da pag2 */
+.fimpag2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
